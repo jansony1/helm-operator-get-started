@@ -16,7 +16,7 @@ spec:
   values:
     image:
       repository: jansony1/podinfo
-      tag: dev-l578ui63
+      tag: dev-8cfzgb3z
     replicaCount: 1
     hpa:
       enabled: false
